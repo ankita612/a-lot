@@ -1,0 +1,45 @@
+ +{
++  "brand": {
++    "supply": {
++      "footerLogo": {
++        "name": "logo.png",
++        "url": "//d1ty3l1h3vtwy2.cloudfront.net/c3ffd700-0895-11e3-96f1-679e4cde98eb.png"
++      },
++      "siteLogo": {
++        "name": "logo.png",
++        "url": "//d1ty3l1h3vtwy2.cloudfront.net/bfe2ada0-0895-11e3-96f1-679e4cde98eb.png"
++      },
++      "useDemandNavColors": false,
++      "useDemandFooterLogo": false,
++      "useDemandLogo": false,
++      "url": "http://127.0.0.1:3001",
++      "name": "adslot supply",
++      "colors": {
++        "navBgHoverColor": "#005ca9",
++        "navBgColor": "#007bc3",
++        "headerBgColor": "#000"
++      }
++    },
++    "demand": {
++      "footerLogo": {
++        "name": "logo.png",
++        "url": "//d1ty3l1h3vtwy2.cloudfront.net/b1540630-0895-11e3-96f1-679e4cde98eb.png"
++      },
++      "banner": {
++        "name": "mac (1).jpg",
++        "url": "//d1ty3l1h3vtwy2.cloudfront.net/97fb6070-0895-11e3-96f1-679e4cde98eb.jpg"
++      },
++      "url": "http://127.0.0.1:3000",
++      "name": "places",
++      "siteLogo": {
++        "name": "logo.png",
++        "url": "//d1ty3l1h3vtwy2.cloudfront.net/901e6ff0-0895-11e3-96f1-679e4cde98eb.png"
++      },
++      "colors": {
++        "navBgHoverColor": "#005ca9",
++        "navBgColor": "#007bc3",
++        "headerBgColor": "#fff"
++      }
++    }
++  }
++} 
